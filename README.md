@@ -30,6 +30,12 @@ Sign up and create project
 
 Sign up and create api key
 
+## Compile
+
+```bash
+truffle compile
+```
+
 ## Deploy to the ropsten network
 
 ```bash
