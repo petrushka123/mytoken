@@ -1,0 +1,7 @@
+{
+  "ignore": [],
+  "commands": {},
+  "hooks": {
+    "post-unpack": "npm install"
+  }
+}
