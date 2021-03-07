@@ -9,7 +9,9 @@ Used Library @openzeppelin
 Create file `.env`
 
 ```env
-MNEMONIC='your mnemonic phrase for test network ropsten'
+ROPSTEN_MNEMONIC='your mnemonic phrase for test network ropsten'
+PRODUCT_MNEMONIC='your mnemonic phrase for test network product'
+PRODUCT_GAS_PRICE=98 # gas price in gwei
 INFURA_PROJECT_ID=YOUR_INFURA_PROJECT_KEY
 ETHERSCAN_API_KEY=YOUR_ETHERSCAN_API_KEY
 ```
