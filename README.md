@@ -4,6 +4,11 @@ Example of simple erc20 token
 Solidity 7.4
 Used Library @openzeppelin
 
+## Installing
+```bash
+truffle unbox petrushka123/mytoken
+```
+
 ## After installing
 
 Create file `.env`
